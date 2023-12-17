@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-class Trebuchet {
+class CubeConundrum {
     public static void main(String[] args) {
         String filename = "day2/input.txt";
         try (BufferedReader br = new BufferedReader(new FileReader(filename))) {
